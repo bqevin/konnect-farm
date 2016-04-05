@@ -1,0 +1,8 @@
+body{
+
+}
+.Error{
+	color: red;
+	font-family: comic sans ms;
+	visibility: hidden;
+}
